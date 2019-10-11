@@ -11,10 +11,13 @@ To make this script on background as soon as computer starts,RUN the script on b
 2.to implement the scheduling part
 
 
-  1.open tack scheduler
+  1.open TASK SCHEDULER
   
   
-  2.open action - create task - in GENERAL : add name for task ,configure the windows you are using,rum with highest pivilages[TICK THIS]
+  2.open Action - CREATE TASK
+  
+  
+                             - in GENERAL : add name for task ,configure the windows you are using,rum with highest pivilages[TICK THIS]
   
   
                               - in TRIGGER : begin the task :At startup
